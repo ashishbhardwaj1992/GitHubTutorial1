@@ -1,3 +1,4 @@
 this is my second file
 adding second line in second file in branch1
-third line from master branch
+third line from branch1 to master branch
+
